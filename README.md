@@ -1,12 +1,38 @@
-# React + Vite
+# Hackathon Project – Powered by Appwrite, React & TailwindCSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Appwrite](https://img.shields.io/badge/Appwrite-%23F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
 
-Currently, two official plugins are available:
+##  Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is built for the **[Appwrite Hackathon](https://appwrite.io/)**.  
+It combines the **power of Appwrite (Backend-as-a-Service)** with the flexibility of **React** and the modern design system of **TailwindCSS**.  
 
-## Expanding the ESLint configuration
+The goal is to create a **unique, scalable, and developer-friendly solution** that stands out by providing:
+-  Seamless Appwrite integration  
+-  Beautiful & responsive UI with Tailwind  
+-  Secure authentication & database handling  
+-  Mobile-first & optimized design  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+##  Features
+
+- ✅ **Authentication** (Appwrite Auth with Email/Password & OAuth providers)  
+- ✅ **Real-time Database** with Appwrite Collections  
+- ✅ **Cloud Functions** for serverless automation  
+- ✅ **File Storage** with Appwrite Buckets  
+- ✅ **Responsive UI** built with TailwindCSS  
+- ✅ **Clean Code Architecture**  
+
+---
+
+##  Tech Stack
+
+- **Frontend**: React + Vite + TailwindCSS  
+- **Backend**: Appwrite (Auth, Database, Storage, Functions)  
+- **Deployment**: Vercel / Netlify / Cloudflare Pages  
+
+---
+
