@@ -32,7 +32,7 @@ The goal is to create a **unique, scalable, and developer-friendly solution** th
 
 - **Frontend**: React + Vite + TailwindCSS  
 - **Backend**: Appwrite (Auth, Database, Storage, Functions)  
-- **Deployment**: Vercel / Netlify / Cloudflare Pages  
+- **Deployment**: Vercel 
 
 ---
 
